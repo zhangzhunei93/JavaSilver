@@ -1,2 +1,2 @@
 # JavaSilver
-#JavaSilver受験に向けたリポジトリ
+JavaSilver受験に向けたリポジトリ
